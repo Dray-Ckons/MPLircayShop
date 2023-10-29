@@ -15,7 +15,7 @@ import com.google.android.material.bottomnavigation.BottomNavigationView
 
 class OneAppActivity : AppCompatActivity() {
 
-
+    //main
 
     lateinit var navegation : BottomNavigationView
     private val mOnNavMenu = BottomNavigationView.OnNavigationItemSelectedListener{ item ->
